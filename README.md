@@ -1,5 +1,5 @@
 # Calories-app-movil
-![Static Badge](https://img.shields.io/badge/status-completed-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/status-Ongoing-Green?style=for-the-badge)
 
 an application that allows you to manage the weight and calories that one consumes on a daily basis.
 
@@ -42,8 +42,13 @@ Open android studio for view the aplication and run the app view
 
 ## App_Preview
 
-![hola](/assets/result.jpg)
+![hola](app-calories/assets/result.jpg)
 
 ## Collaborators
 
-![hola](/assets/Coll.png)
+> [![](https://github.com/Emma-2021-0618.png?size=50)](https://github.com/Emma-2021-0618)
+2021-0618 Enmanuel Sanchez
+> [![](https://github.com/FrankLDF.png?size=50)](https://github.com/FrankLDF)
+2021-0226 Frank
+
+
