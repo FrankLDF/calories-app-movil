@@ -1,5 +1,5 @@
 # Calories-app-movil
-![Static Badge](https://img.shields.io/badge/status-Ongoing-Green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/status-Complete-Red?style=for-the-badge)
 
 an application that allows you to manage the weight and calories that one consumes on a daily basis.
 
